@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Receipts</string>
+    <string name="receipt_title_hint">Enter a title for the receipt.</string>
+    <string name="receipt_title_label">Title</string>
+    <string name="receipt_comment_hint">Enter a comment for the reciept.</string>
+    <string name="receipt_comment_label">Comment</string>
+    <string name="receipt_name_hint">Enter the shop name for the reciept.</string>
+    <string name="receipt_name_label">Shop Name</string>
+    <string name="receipt_details_label">Details</string>
+    <string name="date_picker_title">Date of receipt:</string>
+    <string name="new_receipt">New Receipt</string>
+    <string name="help">Help</string>
+    <string name="subtitle_format">%1$d receipts</string>
+    <string name="receipt_report_text">Send Receipt</string>
+    <string name="receipt_report">%1$s!
+    This receipt was created on %2$s. The purchase was made at %3$s, with comment: %4$s
+  </string>
+    <string name="send_report">Send receipt report via</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
